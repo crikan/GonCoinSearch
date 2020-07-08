@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: e92eb62cd2db81640be608b1a7de0678
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: superadventureisland2_enemies_sheet_0
+    21300002: superadventureisland2_enemies_sheet_1
+    21300004: superadventureisland2_enemies_sheet_2
+    21300006: superadventureisland2_enemies_sheet_3
+    21300008: superadventureisland2_enemies_sheet_4
+    21300010: superadventureisland2_enemies_sheet_5
+    21300012: superadventureisland2_enemies_sheet_6
+    21300014: superadventureisland2_enemies_sheet_7
+    21300016: superadventureisland2_enemies_sheet_8
+    21300018: superadventureisland2_enemies_sheet_9
+    21300020: superadventureisland2_enemies_sheet_10
+    21300022: superadventureisland2_enemies_sheet_11
+    21300024: superadventureisland2_enemies_sheet_12
+    21300026: superadventureisland2_enemies_sheet_13
+    21300028: superadventureisland2_enemies_sheet_14
+    21300030: superadventureisland2_enemies_sheet_15
+    21300032: superadventureisland2_enemies_sheet_16
+    21300034: superadventureisland2_enemies_sheet_17
+    21300036: superadventureisland2_enemies_sheet_18
+    21300038: superadventureisland2_enemies_sheet_19
+    21300040: superadventureisland2_enemies_sheet_20
+    21300042: superadventureisland2_enemies_sheet_21
+    21300044: superadventureisland2_enemies_sheet_22
+    21300046: superadventureisland2_enemies_sheet_23
+    21300048: superadventureisland2_enemies_sheet_24
+    21300050: superadventureisland2_enemies_sheet_25
+    21300052: superadventureisland2_enemies_sheet_26
+    21300054: superadventureisland2_enemies_sheet_27
+    21300056: superadventureisland2_enemies_sheet_28
+    21300058: superadventureisland2_enemies_sheet_29
+    21300060: superadventureisland2_enemies_sheet_30
+    21300062: superadventureisland2_enemies_sheet_31
+    21300064: superadventureisland2_enemies_sheet_32
+    21300066: superadventureisland2_enemies_sheet_33
+    21300068: superadventureisland2_enemies_sheet_34
+    21300070: superadventureisland2_enemies_sheet_35
+    21300072: superadventureisland2_enemies_sheet_36
+    21300074: superadventureisland2_enemies_sheet_37
+    21300076: superadventureisland2_enemies_sheet_38
+    21300078: superadventureisland2_enemies_sheet_39
+    21300080: superadventureisland2_enemies_sheet_40
+    21300082: superadventureisland2_enemies_sheet_41
+    21300084: superadventureisland2_enemies_sheet_42
+    21300086: superadventureisland2_enemies_sheet_43
+    21300088: superadventureisland2_enemies_sheet_44
+    21300090: superadventureisland2_enemies_sheet_45
+    21300092: superadventureisland2_enemies_sheet_46
+    21300094: superadventureisland2_enemies_sheet_47
+    21300096: superadventureisland2_enemies_sheet_48
+    21300098: superadventureisland2_enemies_sheet_49
+    21300100: superadventureisland2_enemies_sheet_50
+    21300102: superadventureisland2_enemies_sheet_51
+    21300104: superadventureisland2_enemies_sheet_52
+    21300106: superadventureisland2_enemies_sheet_53
+    21300108: superadventureisland2_enemies_sheet_54
+    21300110: superadventureisland2_enemies_sheet_55
+    21300112: superadventureisland2_enemies_sheet_56
+    21300114: superadventureisland2_enemies_sheet_57
+    21300116: superadventureisland2_enemies_sheet_58
+    21300118: superadventureisland2_enemies_sheet_59
+    21300120: superadventureisland2_enemies_sheet_60
+    21300122: superadventureisland2_enemies_sheet_61
+    21300124: superadventureisland2_enemies_sheet_62
+    21300126: superadventureisland2_enemies_sheet_63
+    21300128: superadventureisland2_enemies_sheet_64
+    21300130: superadventureisland2_enemies_sheet_65
+    21300132: superadventureisland2_enemies_sheet_66
+    21300134: superadventureisland2_enemies_sheet_67
+    21300136: superadventureisland2_enemies_sheet_68
+    21300138: superadventureisland2_enemies_sheet_69
+    21300140: superadventureisland2_enemies_sheet_70
+    21300142: superadventureisland2_enemies_sheet_71
+    21300144: superadventureisland2_enemies_sheet_72
+    21300146: superadventureisland2_enemies_sheet_73
+    21300148: superadventureisland2_enemies_sheet_74
+    21300150: superadventureisland2_enemies_sheet_75
+    21300152: superadventureisland2_enemies_sheet_76
+    21300154: superadventureisland2_enemies_sheet_77
+    21300156: superadventureisland2_enemies_sheet_78
+    21300158: superadventureisland2_enemies_sheet_79
+    21300160: superadventureisland2_enemies_sheet_80
+    21300162: superadventureisland2_enemies_sheet_81
+    21300164: superadventureisland2_enemies_sheet_82
+    21300166: superadventureisland2_enemies_sheet_83
+    21300168: superadventureisland2_enemies_sheet_84
+    21300170: superadventureisland2_enemies_sheet_85
+    21300172: superadventureisland2_enemies_sheet_86
+    21300174: superadventureisland2_enemies_sheet_87
+    21300176: superadventureisland2_enemies_sheet_88
+    21300178: superadventureisland2_enemies_sheet_89
+    21300180: superadventureisland2_enemies_sheet_90
+    21300182: superadventureisland2_enemies_sheet_91
+    21300184: superadventureisland2_enemies_sheet_92
+    21300186: superadventureisland2_enemies_sheet_93
+    21300188: superadventureisland2_enemies_sheet_94
+    21300190: superadventureisland2_enemies_sheet_95
+    21300192: superadventureisland2_enemies_sheet_96
+    21300194: superadventureisland2_enemies_sheet_97
+    21300196: superadventureisland2_enemies_sheet_98
+    21300198: superadventureisland2_enemies_sheet_99
+    21300200: superadventureisland2_enemies_sheet_100
+    21300202: superadventureisland2_enemies_sheet_101
+    21300204: superadventureisland2_enemies_sheet_102
+    21300206: superadventureisland2_enemies_sheet_103
+    21300208: superadventureisland2_enemies_sheet_104
+    21300210: superadventureisland2_enemies_sheet_105
+    21300212: superadventureisland2_enemies_sheet_106
+    21300214: superadventureisland2_enemies_sheet_107
+    21300216: superadventureisland2_enemies_sheet_108
+    21300218: superadventureisland2_enemies_sheet_109
+    21300220: superadventureisland2_enemies_sheet_110
+    21300222: superadventureisland2_enemies_sheet_111
+    21300224: superadventureisland2_enemies_sheet_112
+    21300226: superadventureisland2_enemies_sheet_113
+    21300228: superadventureisland2_enemies_sheet_114
+    21300230: superadventureisland2_enemies_sheet_115
+    21300232: superadventureisland2_enemies_sheet_116
+    21300234: superadventureisland2_enemies_sheet_117
+    21300236: superadventureisland2_enemies_sheet_118
+    21300238: superadventureisland2_enemies_sheet_119
+    21300240: superadventureisland2_enemies_sheet_120
+    21300242: superadventureisland2_enemies_sheet_121
+    21300244: superadventureisland2_enemies_sheet_122
+    21300246: superadventureisland2_enemies_sheet_123
+    21300248: superadventureisland2_enemies_sheet_124
+    21300250: superadventureisland2_enemies_sheet_125
+    21300252: superadventureisland2_enemies_sheet_126
+    21300254: superadventureisland2_enemies_sheet_127
+    21300256: superadventureisland2_enemies_sheet_128
+    21300258: superadventureisland2_enemies_sheet_129
+    21300260: superadventureisland2_enemies_sheet_130
+    21300262: superadventureisland2_enemies_sheet_131
+    21300264: superadventureisland2_enemies_sheet_132
+    21300266: superadventureisland2_enemies_sheet_133
+    21300268: superadventureisland2_enemies_sheet_134
+    21300270: superadventureisland2_enemies_sheet_135
+    21300272: superadventureisland2_enemies_sheet_136
+    21300274: superadventureisland2_enemies_sheet_137
+    21300276: superadventureisland2_enemies_sheet_138
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 754
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea042d80f3ea04aa62ffc897993770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 751
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2463141e964bc40822d6327531850e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 751
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf552e5babad54ab90590f89170253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 751
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47be4e5729da6440891d6ad2f35cc14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 750
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895c8b560c5f8a4cb320780da27d89d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 752
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6867fe16fa7cf48ba41d8700bbf4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 742
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800075bd7e74204485d34940a3f0a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 760
+        width: 63
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84746f5e8c1904faffa8dab8b5c8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 700
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1b29f6da95f9748bcbbce683de6b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 700
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1762ffff47564c9b6fdafa393eef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 702
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e8f5757b250b42af4594d47df1d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 702
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6de3123d14ade144816e68e4a44920b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 702
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9633b58901629844aaf7e027cc2adf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 701
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29dd448faeb944a8cfe908378181f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 700
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966fc9896c3514c4c943f6a892f37974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 701
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c139ff5958cbc48bee3b0f66a1f74f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 712
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0513437d081d479ba2aa0bb323cca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 44
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8c8527f474ee499c684940b2dfa03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 655
+        width: 48
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c6b9cb3437054fad6c13caea6924c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 655
+        width: 48
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdfaa98b2cdce44a11657f877073e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 659
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd9b06ae01dea45ab8383e774c8206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 659
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda381c9bd08aa94db2c2bdd158849ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 650
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f201c5bdb5aceb43aeff8b3b82a57da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 650
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedb3af1b6e001e49af43aa958737669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 650
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c63ed0dd5d91446833cd4dc28edb92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 658
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64a5608e576474e91936852ff1fc9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 608
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6cdaa58c63824496a119c35db46c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 605
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f08455f855ba46b8f1eac6bf78990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 605
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f47fd027ae8a347ae9610a3be66c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 608
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d223a97eab5414596c50704db38480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 602
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a91dafc3b0874ca23fe6b00c73815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 602
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d9d6d01f8ecc14b850d40e2813c1bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 602
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe7f3c6b9211f4996be81bd87c7e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 606
+        width: 29
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4b17658d5cfc4ab875625a03891ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 611
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027d36e7e1da69447992843562c80f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 554
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd8962e13bf7940817cc0e57f050a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 554
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce6d4f59656304f85c29eec7d1feb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 554
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8afb416f31f91409dfd62e5bd86f55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6fdd20a35e7314496adc398ee0974b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 553
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1fcf7fd9b0864f94dbc0b299cb62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 553
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d994909fe6127a4083de11a87838678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 551
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a1386a087c7e4baa5d77209d6eabc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 551
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b1f292fd8d464a8504e323b539004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 553
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b8d70d42f4ef42ac177c2acbbf707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 500
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5714c19921cb364498ff65c42cbcfe31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 500
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392689fdfcc45324f816759ca018bd00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 500
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b40d325698c9e428a631bf10e49464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 505
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3905b28adb3608f438d4e4a64dedec3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 503
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6250605817887642baa96086adc3406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 505
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca5bf115bfe2d4c80bd4cdf65bd085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 501
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c96c2af18542a49ac3dd1572d2d792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 508
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e762d5d868bf44b5c008ebcf5db40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 508
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5a8d572301ca45a88e90a2092a4dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf004bde31c1a43989419296ab984d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 410
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2518650a4aa7f194cad99252bee86fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 451
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc76e8655f76f44946966d86744c5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 450
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffbb0cd830c5de4ca1bafbc9f0aec91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 451
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d17c71e1d0a548b1a5a90c7ab5b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 450
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68221d85d229b3b44914a79d805c21ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 452
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7dd7b3d2add294b8b2cfcb3b5ce55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 452
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6792697bb1a75499771e72384869e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 463
+        width: 32
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f69fcf217dac4cb7002a3143d4274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 401
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8269b33987bdf4088e8c8526897051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 399
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7185ff6911bd34baf6f0d674020d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 404
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ecc94faaa67e49a4c5fadc0310d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 400
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a4a06c4b58b5944a8a05861380c6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 408
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19339c609339a94bab05d90d689c752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 409
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e42b262a470d443b336fd0786f4cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 408
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312507ae4bbc36f44a7759ff256e5ddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 409
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d489091225b32e4cb26c972500b1b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 350
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2add985974ceda48933906cd79dc91c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 350
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95572dd05befae448e58c8f5f7b0bcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 355
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ac0b4ae0052cd4ebbcca6b710e33f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 356
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ee91a405fd8b45b7ffa887e6c7422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 349
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba966bc0bc00e47ab5b8cfa09c63a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 347
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7dbbffbbf4884eb3c7b46aad8782b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 349
+        width: 39
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0c41e98068a546a802ff14a838251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 351
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a3bd97af00c74eaf0304c91206d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 359
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa261aa1fb69c8349ac51c794a55bdde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b1436255efd54190c13784ef35d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 301
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf8371291afe14faa8f0ab14fb29ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 300
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c366ed939a8be4c99fd142efc4e726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 300
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9600a61c35376f94f92c7babea591745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 309
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014b3866a2d175944ae1e52b2c5201a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 309
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1eb355172ebfb489aac83ee2ce396e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 309
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91513ec3e706a3240a2bccdafa7d76a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 307
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7fb623f26c5d9418cd97776588c4e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 309
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276561102e0d2184c874db8cf692be20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 253
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea4ebe6d8218b46ac7ddbfe0164fd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 251
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c075236b2b6dd6349a6c32c1891f0eb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 251
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e31d8008631740ae716f9f8764b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 251
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f4450cccb73f4eb3d4c0a51ee93ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 251
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc88ac597c9f9a459b965a85c8940e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 251
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990e3224b9e59942b69f048807a90ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 251
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e4079c98435cc4fbfbfb29e1a724f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 254
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0745d7e54cfcadd4aa41e45ef0166e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 258
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1490f1718e0c744c8432ca9ce38dc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c9a698fb6a07645afce87a24a115bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5cd22d141f40948908dc10ada7f3c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 201
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1281ce5648845744a74ba9e2a5567a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 202
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8b81705d21d04290f439bbaec40bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 201
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc1433521d43634fbb977746727eda8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b3e48536e176488fc50d8941f3986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 202
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaab12b060c4ca47a134861f5d8f42d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 208
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb46e7cb77e1134a86c74ccfe30937b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 211
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738bed9863a4394f8a310aca23fd669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 155
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef055690d2fff684a90b63101d58b596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 155
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be5aea477a8ca4caaf59b8dcb5c15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 150
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0c1a398f3b5a4dbf1c06bb2cf4c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feaf63896d042943b241717514b1d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 151
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be905757b6ac50845ab18a1bdaaa4831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d585f18ce3f29b4194d7e42c196b963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 151
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095feb0f423dfbd40afb9f97cc9a5b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 154
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e906faaf654f44bae79a80822574a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 152
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7556b7d6eb8fc3438c9194d9fc07624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d3ad58610467479b24c780a1a21fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 104
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f132d3b1ca55f343ac729b39163912c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 101
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409fd4eaac4210c4094c7dbbc82cec12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 103
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15cd0a8c02767049841589019bb3335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 100
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c192083d84c047a15359ee4ab72e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8816cbb39e26d4a978d100afba8d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 100
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296bd56b5f49ef4bb928246d8bdaf91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 100
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d36763d29028442b8bca8f4846fb95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 55
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0756fcb8efcf94ab7ca65a89c201e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 55
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6eb1f0f11c6f4db0bef3874da8772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a41d9f26fa4f242a97d1928b89b793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 52
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495c59b94cc05141ad60dfb94ee8d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 51
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c41b051a9fa704bbb6ad93aef14f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6296e280f1f0c46bd56237b6522fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 51
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf281426c28c0643aab68d6b26da6c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 51
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef6767fff7afa4599d673551d637ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a349d015e68254e92185915a8f7475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147f651d74bf6a4fa791098bcaea743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4347b3403ee9468fc811ba3bf2be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379b116b1eb1094cb205e05597f9a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad85585fe60ba4198878b6db0772c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037c8331e8420242a3d8a2e2370bbfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd04eaee2e25094da1f0d6212b51d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superadventureisland2_enemies_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda09b71475a794084a8b140790d4ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77990af6ce9611b4e87f56a0f21c1dbe
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
