@@ -2,7 +2,7 @@
 2D Platform Game made with Unity Engine
 
 Get all the coins!
-/![start_screen](https://raw.githubusercontent.com/crikan/GonCoinSearch/master/.jpg)
+![start_screen](https://raw.githubusercontent.com/crikan/GonCoinSearch/master/pantallaInicio.jpg)
 
 Careful with the foes!
 ![detail](https://raw.githubusercontent.com/crikan/GonCoinSearch/master/scene1.jpg)
